@@ -1,7 +1,7 @@
 ### Hi there, I'm Andy - aka BBHoodsta 👋
 
 ## I'm a Developer!!
-- 🕹 Programming mainly on Retro Consoles
+- 🕹 Programming mainly on Retro Consoles 🌀
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw pixels and play guitar / drums
