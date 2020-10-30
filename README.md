@@ -1,11 +1,10 @@
 ### Hi there, I'm Andy - aka BBHoodsta 👋
 
-## I'm a Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+## I'm a Developer!!
+- 🕹 Programming mainly on Retro Consoles
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw pixels and play guitar / drums
 
 <!-- ### Spotify Playing 🎧
 
