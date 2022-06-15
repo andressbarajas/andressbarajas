@@ -4,7 +4,7 @@
 - 🕹 Programming mainly on Retro Consoles 🌀
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw pixels and play guitar / drums
+- ⚡ Fun fact: I love to draw pixels
 
 <!-- ### Spotify Playing 🎧
 
